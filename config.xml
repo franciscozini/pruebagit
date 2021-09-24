@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+
+    <!--
+    <add key="UrlWS" value="http://pp-ws.gprev.com:8085/wsLogistica.asmx" />
+  -->
+    
+    <!--
+    <add key="UrlWS" value="http://pp-ws:8085/wsLogistica.asmx" />
+  -->
+
+    <!--
+    <add key="UrlWS" value="http://desarrollo-1:8085/wsLogistica.asmx" />
+    -->
+
+    <add key="UrlWS" value="http://desarrollo-2:8085/wsLogistica.asmx" />
+
+    <!-- URL de repositorio para la actualización de versión -->
+    <add key="RutaPublicacion" value="http://desarrollo-4:8085/PublicacionVersion/" />
+   
+   	<!-- Para mostrar o no el mensaje de error de detección del barcode scanner -->
+    <add key="ErrorBarcodeScanner" value="N" />
+
+	</appSettings>
+</configuration>

@@ -19,7 +19,9 @@
     <!-- URL de repositorio para la actualización de versión -->
     <add key="RutaPublicacion" value="http://desarrollo-4:8085/PublicacionVersion/" />
    
-   	<!-- Para mostrar o no el mensaje de error de detección del barcode scanner -->
+   	<!-- Para mostrar o no el mensaje de error de detección del barcode scanner 
+     voy a modificar esto!!!!!!
+     -->
     <add key="ErrorBarcodeScanner" value="N" />
 
 	</appSettings>

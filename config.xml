@@ -21,6 +21,7 @@
    
    	<!-- Para mostrar o no el mensaje de error de detección del barcode scanner 
      voy a modificar esto!!!!!!
+     otrooo cambio!!!!!
      -->
     <add key="ErrorBarcodeScanner" value="N" />
 

@@ -25,5 +25,7 @@
      -->
     <add key="ErrorBarcodeScanner" value="N" />
 
+esto ahora es en la rama nueva!
+
 	</appSettings>
 </configuration>

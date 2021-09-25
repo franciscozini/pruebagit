@@ -25,6 +25,24 @@
      -->
 
      <!-- este es del main!!! no de la rama --> 
+
+    <!-- hago mas cambios sigo sobre la misma rama main -->
+<ul class="commands">
+                <li><strong>git status</strong> muestra el estado del archivo en relacion al INDEX
+                    <ul>
+                        <li><strong>untracked: </strong> no se esta haciendo seguimiento, irrecuperable en caso de perdida</li>
+                        <li><strong>staged: </strong> se realizo la captura del codigo, pero no se confirmo</li>
+                        <li><strong>commited: </strong> se confirmo la captura y se almacenaron los cambios en el historial.</li>
+                        <li><strong>modified: </strong> el archivo difiere con respecto a la ultima confirmacion</li>
+                    </ul>
+                </li>
+                <li><strong>git add &lt;file></strong> agrega los cambios del archivo al INDEX</li>
+                <li><strong>git diff</strong> muestra las diferencias entre el INDEX y el Working Directory</li>
+                <li><strong>git restore --staged &lt;file></strong> elimina la ultima captura realizada</li>
+<li><strong>git rm --cached  &lt;file></strong> quita el archivo del INDEX, no se hace seguimiento</li>
+            </ul>
+
+
     <add key="ErrorBarcodeScanner" value="N" />
 
 	</appSettings>

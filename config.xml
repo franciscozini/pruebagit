@@ -23,6 +23,8 @@
      voy a modificar esto!!!!!!
      otrooo cambio!!!!!
      -->
+
+     <!-- este es del main!!! no de la rama --> 
     <add key="ErrorBarcodeScanner" value="N" />
 
 	</appSettings>
